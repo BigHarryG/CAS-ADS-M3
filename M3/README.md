@@ -21,6 +21,6 @@ Basic introduction on how to perform typical machine learning tasks with Python.
 - Course languages are Python and English
 - Short theory sessions followed by hands-on tutorials with Jupyter notebooks
 
-## Updloaded Files
+## Uploaded Files
 ### 2022_11_18_Poisson_Template_V1:
 This code shows the Poission regression model applied for the M3 project and thus it is only one part of the whole project. Goal of the project is to predict numbers of scored goals of a football match
