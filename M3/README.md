@@ -1,5 +1,5 @@
 
-# CAS ADS Module 1
+# CAS ADS Module 3
 
 ## Data Analysis and Machine Learning
 Basic introduction on how to perform typical machine learning tasks with Python.
