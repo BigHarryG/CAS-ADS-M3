@@ -10,5 +10,11 @@ This folder is created for the [CAS ADS](https://[pages.github.com/](https://www
 - be able to analyse and communicate data science challenges and use a wide range of data science tools and methods;
 - be able to perform deep learning for a wide range of tasks.
 
-In the subfolders, the different objectives are considered.
+In the subfolders, the different objectives are considered:
+- M1 Data acquisition and management
+- M2 Statistical Inference for Data Science
+- M3 Data Analysis and Machine Learning
+- M4 Introduction to IT Security for Data Scientists and Ethics and Best Practices
+- M5 Peer Consulting and Selected Readings
+- M6 Deep Learning
 
