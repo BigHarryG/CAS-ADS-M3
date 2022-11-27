@@ -4,7 +4,7 @@
 ## Data Analysis and Machine Learning
 Basic introduction on how to perform typical machine learning tasks with Python.
 
-##Learning outcomes
+## Learning outcomes
 - Overview of machine learning pipelines and their implementation with scikit-learn
 - Regression and Classification: linear models and logistic regression
 - Decision trees & random forest models
