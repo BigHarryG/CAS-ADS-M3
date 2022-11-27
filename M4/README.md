@@ -1,4 +1,4 @@
-# CAS-ADS-M4
+# CAS-ADS-Module 4
 
 ## Task for Module M4:
 - Create your own GitHub repository
