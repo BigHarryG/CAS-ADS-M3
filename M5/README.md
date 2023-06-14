@@ -4,8 +4,7 @@
 ## Data Analysis and Machine Learning
 Basic introduction on how to perform typical machine learning tasks with Python.
 
-## Learning outcomes
-Project Report Outline (this is a guideline, you may do it a bit differently):
+## Project Report Outline
 - Front page with title, author names and emails, confidential statement if needed, abstract
 - Introduction
 - Data (possibly with data flow, data quality, feature engineering, preprocessing, cleaning, ...)
