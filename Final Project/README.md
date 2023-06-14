@@ -1,8 +1,8 @@
 
 # CAS ADS Final Project
 
-## Data Analysis and Machine Learning
-Basic introduction on how to perform typical machine learning tasks with Python.
+## About
+Final project of the CAS ADS of my choice. The obejctive of the project is to predict the number of scored goals of a football game applying machine learning methods. 
 
 ## Project Report Outline
 - Front page with title, author names and emails, confidential statement if needed, abstract
@@ -17,11 +17,9 @@ Basic introduction on how to perform typical machine learning tasks with Python.
 
 ## Prerequisites
 - CAS ADS Module 1 - 6
-- Basic programming skills are necessary, we don't reserve time for basic programming concepts.
 
 ## Methods
 - Course languages are Python and English
-
 
 ## Uploaded Files
 
