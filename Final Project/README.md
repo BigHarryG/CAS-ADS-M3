@@ -21,4 +21,6 @@ Final project of the CAS ADS of my choice. The obejctive of the project is to pr
 - Course languages are Python and English
 
 ## Uploaded Files
-
+### Final_Project_CAS_ADS_NG.ipynb:
+- the jupyter notebook including the whole code, structered in topics
+###
