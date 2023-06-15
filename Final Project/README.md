@@ -22,5 +22,8 @@ Final project of the CAS ADS of my choice. The obejctive of the project is to pr
 
 ## Uploaded Files
 ### Final_Project_CAS_ADS_NG.ipynb:
-- the jupyter notebook including the whole code, structered in topics
-###
+the jupyter notebook including the whole code, structered in topics
+### Raw_Data_5.csv
+csv file that includes the raw data for the code. Load it in the according section ('Load Data') to load it from your local computer
+### games.scv
+csv file that includes the information about the next games. Load it in the according section ('Load Next Games') from your local computer
