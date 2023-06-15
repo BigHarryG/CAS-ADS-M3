@@ -6,9 +6,8 @@ Final project of the CAS ADS of my choice. The obejctive of the project is to pr
 
 ## Project Report Outline
 - Introduction
-- Data (possibly with data flow, data quality, feature engineering, preprocessing, cleaning, ...)
-- Exploratory data analysis (with descriptive statistics and plots)
-- Machine learning analysis
+- Data (Data Flow, Data Plotting, Data Quality, Data Cleaning, Test / Training Set, Data Scaling)
+- Machine learning analysis (Problem Statement, Feature Selection,
 - Results Discussion
 - Conlcusion and Outlook
 - Acknowledgements
@@ -23,7 +22,9 @@ Final project of the CAS ADS of my choice. The obejctive of the project is to pr
 ## Uploaded Files
 ### Final_Project_CAS_ADS_NG.ipynb:
 the jupyter notebook including the whole code, structered in topics
-### Raw_Data_5.csv
+### Raw_Data_5.csv:
 csv file that includes the raw data for the code. Load it in the according section ('Load Data') to load it from your local computer
-### games.scv
+### games.scv:
 csv file that includes the information about the next games. Load it in the according section ('Load Next Games') from your local computer
+### Report_CAS_ADS_Final_Report:
+pdf with the report about the project. In case you have questions regardin the code, the report should assist to understand certain decisions.
